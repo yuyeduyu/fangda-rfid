@@ -1,0 +1,53 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+        <!--状态栏颜色-->
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <!--Toolbar颜色-->
+        <item name="colorPrimary">@color/primary</item>
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="normal_dialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/transparent1</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="MyToolBar" parent="AppBaseTheme">
+        <item name="android:textColorPrimary">#ffffff</item>
+        <!--图标颜色-->
+        <item name="android:textColorSecondary">#ffffff</item>
+        <!--下拉菜单背景-->
+        <item name="android:colorBackground">@color/primary_dark</item>
+        <!--<item name="android:textSize">@dimen/text_18</item>-->
+        <item name="buttonGravity">top</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <style name="Toolbar.TitleText" parent="Toolbar.TitleText">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <!--时间选择工具需要样式-->
+    <style name="time_dialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+</resources>

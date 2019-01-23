@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    }
+]

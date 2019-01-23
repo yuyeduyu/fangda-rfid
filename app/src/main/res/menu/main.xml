@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/parameterSetting"/>
+    <item
+        android:id="@+id/ip"
+        android:title="服务器管理"/>
+</menu>

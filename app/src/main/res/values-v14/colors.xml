@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#422ef9</color>
+    <color name="primary_dark">#3B29DF</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent1">#00000000</color>
+    <color name="gray_pressed">#ffb5b5b6</color>
+    <color name="lockscreen_clock_background">#ffffffff</color>
+    <color name="background">#FFFFFF</color>
+    <color name="text2">#333333</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#aaaaaa</color>
+    <color name="light_blue">#6593cb</color>
+    <color name="search_url_text_normal">#7fa87f</color>
+    <color name="list_item">#ffc9cccd</color>
+    <color name="tv_item">#7E7B80</color>
+    <color name="blue">#419DE4</color>
+    <color name="text_AE">#ffaeaeae</color>
+    <color name="text1">#222222</color>
+    <color name="text3">#999999</color>
+    <color name="layout_backgroud">#ffffff</color>
+    <color name="view_backgroud">#f8f8f8</color>
+    <color name="c13">#de1e7c</color>
+    <color name="timeTitle">#422ef9</color>
+    <color name="c4">#dddddd</color>
+</resources>

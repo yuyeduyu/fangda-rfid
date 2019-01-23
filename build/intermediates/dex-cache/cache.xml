@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\workspace\others\huang\fangda\UhfSDKdemo\app\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="D:\workspace\others\huang\fangda\UhfSDKdemo\app\build\intermediates\pre-dexed\debug\gson-2.2.4_5037db53079ff042e6e24d1dfafc6dd3da37bddc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\others\huang\fangda\UhfSDKdemo\app\libs\uhf.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ad377c72c9e4d6a81e1ed62fe2e510a7888f152c">
+        <dex dex="D:\workspace\others\huang\fangda\UhfSDKdemo\app\build\intermediates\pre-dexed\debug\uhf_e15d02564b7eb7d37348b4acac7a1e82eb39c465.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\others\huang\fangda\UhfSDKdemo\app\libs\httpcore-4.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="592ffbd778cbcc2e2dc5d162b35c16d6a538fea2">
+        <dex dex="D:\workspace\others\huang\fangda\UhfSDKdemo\app\build\intermediates\pre-dexed\debug\httpcore-4.1.4_a7966a460fc9b10711329b89bf003a9807917b57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\others\huang\fangda\UhfSDKdemo\app\libs\android-async-http-1.4.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="D:\workspace\others\huang\fangda\UhfSDKdemo\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.6_a8cf063e2c070e74176bb41e94f851075e608062.jar" />
+    </item>
+
+</items>
