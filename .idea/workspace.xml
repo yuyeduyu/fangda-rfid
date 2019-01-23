@@ -11,94 +11,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1283971-8879-498e-ab34-21b9b5d4590d" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/BuildConfig.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/BuildConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/MainActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/MainActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/R$menu.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/R$menu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/R$mipmap.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/R$mipmap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/R$raw.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/R$raw.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/SettingPower.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/SettingPower.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/WaitDialog.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/WaitDialog.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/ChukuInfoActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/ChukuInfoActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/ChukuInfoActivity_ViewBinding.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/ChukuInfoActivity_ViewBinding.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/DiaoBoInfoActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/DiaoBoInfoActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/DiaoBoInfoActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/DiaoBoInfoActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/DiaoBoInfoActivity_ViewBinding.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/DiaoBoInfoActivity_ViewBinding.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/InfoActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/InfoActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/MoreHandleActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/MoreHandleActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/OrderActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/OrderActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/OrderActivity_ViewBinding.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/OrderActivity_ViewBinding.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/RFIDActivity$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/RFIDActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/RFIDActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/RFIDActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/SearchActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/SearchActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/SearchActivity_ViewBinding.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/SearchActivity_ViewBinding.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/SetAdminActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/SetAdminActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/SettingActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/activity/SettingActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/adapter/AllLogAdapter$Holder.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/adapter/AllLogAdapter$Holder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/adapter/AllLogAdapter$Holder_ViewBinding.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/adapter/AllLogAdapter$Holder_ViewBinding.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/adapter/ChukuAdapter$Holder.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/adapter/ChukuAdapter$Holder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/adapter/ChukuAdapter$Holder_ViewBinding.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/adapter/ChukuAdapter$Holder_ViewBinding.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/adapter/DiaoBoAdapter$Holder.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/adapter/DiaoBoAdapter$Holder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/adapter/DiaoBoAdapter$Holder_ViewBinding.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/adapter/DiaoBoAdapter$Holder_ViewBinding.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/fragment/SearchChuKuFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/fragment/SearchChuKuFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/fragment/SearchChuKuFragment$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/fragment/SearchChuKuFragment$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/fragment/SearchChuKuFragment$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/fragment/SearchChuKuFragment$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/fragment/SearchChuKuFragment$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/fragment/SearchChuKuFragment$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/fragment/SearchChuKuFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/fragment/SearchChuKuFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/fragment/SearchChuKuFragment_ViewBinding.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/fragment/SearchChuKuFragment_ViewBinding.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/fragment/SearchDiaoBoFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/fragment/SearchDiaoBoFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/fragment/SearchDiaoBoFragment$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/fragment/SearchDiaoBoFragment$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/fragment/SearchDiaoBoFragment$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/fragment/SearchDiaoBoFragment$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/fragment/SearchDiaoBoFragment$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/fragment/SearchDiaoBoFragment$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/fragment/SearchDiaoBoFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/fragment/SearchDiaoBoFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/fragment/SearchDiaoBoFragment_ViewBinding.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/fragment/SearchDiaoBoFragment_ViewBinding.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/utils/CustomDatePickerUtils/CustomDatePicker.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/utils/CustomDatePickerUtils/CustomDatePicker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/utils/PopupMenuUtil.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/utils/PopupMenuUtil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/in/srain/cube/views/ptr/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/in/srain/cube/views/ptr/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/adapter/ChukuAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/adapter/ChukuAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/adapter/DiaoBoAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/uhfsdkdemo/adapter/DiaoBoAdapter.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/c9VEY3V5OHlUfJhAsEAEuUeC8+k=" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/c9VEY3V5OHlUfJhAsEAEuUeC8+k=" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_9997209c801e51c8d82434f4616cb54f7ce05c1b.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_9997209c801e51c8d82434f4616cb54f7ce05c1b.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/apt/debug/com/example/uhfsdkdemo/activity/DiaoBoInfoActivity_ViewBinding.java" afterPath="$PROJECT_DIR$/app/build/generated/source/apt/debug/com/example/uhfsdkdemo/activity/DiaoBoInfoActivity_ViewBinding.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/apt/debug/com/example/uhfsdkdemo/activity/OrderActivity_ViewBinding.java" afterPath="$PROJECT_DIR$/app/build/generated/source/apt/debug/com/example/uhfsdkdemo/activity/OrderActivity_ViewBinding.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/apt/debug/com/example/uhfsdkdemo/fragment/SearchChuKuFragment_ViewBinding.java" afterPath="$PROJECT_DIR$/app/build/generated/source/apt/debug/com/example/uhfsdkdemo/fragment/SearchChuKuFragment_ViewBinding.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/apt/debug/com/example/uhfsdkdemo/fragment/SearchDiaoBoFragment_ViewBinding.java" afterPath="$PROJECT_DIR$/app/build/generated/source/apt/debug/com/example/uhfsdkdemo/fragment/SearchDiaoBoFragment_ViewBinding.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/androidTest/debug/com/example/uhfsdkdemo/test/BuildConfig.java" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/androidTest/debug/com/example/uhfsdkdemo/test/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/example/uhfsdkdemo/BuildConfig.java" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/example/uhfsdkdemo/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/design/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/design/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/example/uhfsdkdemo/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/example/uhfsdkdemo/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/in/srain/cube/views/ptr/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/in/srain/cube/views/ptr/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_diaobo_info.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_diaobo_info.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/activity/ChukuInfoActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/activity/ChukuInfoActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/activity/DiaoBoInfoActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/activity/DiaoBoInfoActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/fragment/SearchChuKuFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/fragment/SearchChuKuFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/fragment/SearchDiaoBoFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/fragment/SearchDiaoBoFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_diaobo_info.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_diaobo_info.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment_search.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment_search.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/item_search.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/item_search.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_search.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_search.xml" />
     </list>
     <ignored path="UhfSDKdemo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -130,56 +62,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SearchActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/activity/SearchActivity.java">
+      <file leaf-file-name="OrderActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/activity/OrderActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+            <state relative-caret-position="378">
+              <caret line="63" column="21" lean-forward="false" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearchEvent.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/event/SearchEvent.java">
+      <file leaf-file-name="AllLogAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/adapter/AllLogAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-              <folding>
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#248#249#0" expanded="true" />
-                <element signature="e#282#283#0" expanded="true" />
-                <element signature="e#312#313#0" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#396#397#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="402">
+              <caret line="48" column="102" lean-forward="false" selection-start-line="42" selection-start-column="7" selection-end-line="48" selection-end-column="102" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_search.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_search.xml">
+      <file leaf-file-name="item_order.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_order.xml">
           <provider editor-type-id="android-designer2">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="14" selection-end-column="19" />
-              <folding>
-                <element signature="e#356#519#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SearchChuKuFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/fragment/SearchChuKuFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="169" column="13" lean-forward="false" selection-start-line="169" selection-start-column="13" selection-end-line="169" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="513">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -194,11 +105,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearchDiaoBoFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/fragment/SearchDiaoBoFragment.java">
+      <file leaf-file-name="fragment_search.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_search.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="166" column="7" lean-forward="false" selection-start-line="166" selection-start-column="7" selection-end-line="166" selection-end-column="7" />
+            <state relative-caret-position="351">
+              <caret line="74" column="42" lean-forward="false" selection-start-line="74" selection-start-column="42" selection-end-line="74" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchChuKuFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/fragment/SearchChuKuFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="71" column="17" lean-forward="false" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -206,14 +130,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fragment_search.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_search.xml">
+      <file leaf-file-name="ChukuAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/adapter/ChukuAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="46" column="38" lean-forward="false" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiaoBoAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/adapter/DiaoBoAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="39" column="76" lean-forward="false" selection-start-line="39" selection-start-column="76" selection-end-line="39" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="item_search.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_search.xml">
           <provider editor-type-id="android-designer2">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-108">
-              <caret line="44" column="21" lean-forward="false" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+            <state relative-caret-position="297">
+              <caret line="56" column="36" lean-forward="false" selection-start-line="56" selection-start-column="36" selection-end-line="56" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -222,8 +166,8 @@
       <file leaf-file-name="Util.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/Util.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+            <state relative-caret-position="186">
+              <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
               <folding>
                 <marker date="1496808685687" expanded="true" signature="1272:1279" ph="{...}" />
               </folding>
@@ -1935,9 +1879,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/MoreHandleActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/SettingPower.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/SettingActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/iso1800_6c.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/setting_activity.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/setting_power.xml" />
@@ -1953,14 +1894,12 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/bean/RespBean.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/adapter/AllLogAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/bean/InfoData.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/activity/InfoActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values-zh-rCN/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/bean/OrderBean.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/activity/OrderActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/popup_menu.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/utils/PopupMenuUtil.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/activity/RFIDActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/bean/ChukuResultBean.java" />
@@ -1968,10 +1907,7 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/utils/TimeUtils.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/utils/CustomDatePickerUtils/CustomDatePicker.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values-v14/colors.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/custom_date_picker.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/adapter/DiaoBoAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/adapter/ChukuAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/utils/CustomDatePickerUtils/DatePickerView.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/Server.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/Util.java" />
@@ -1981,11 +1917,19 @@
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/activity/SearchActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_search.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_search.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/fragment/SearchDiaoBoFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/fragment/SearchChuKuFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/event/SearchEvent.java" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/popup_menu.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/item_order.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_order.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/adapter/AllLogAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values-v14/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/adapter/ChukuAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/item_search.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/adapter/DiaoBoAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_search.xml" />
       </list>
     </option>
   </component>
@@ -2120,6 +2064,28 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UhfSDKdemo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uhfsdkdemo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="fragment" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -2143,6 +2109,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="event" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UhfSDKdemo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uhfsdkdemo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="adapter" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -2303,7 +2291,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1548231176005" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1548234323953" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2351,7 +2339,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1548231176005" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1548234323953" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2534,7 +2522,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1548231176005" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1548234323953" />
       </method>
     </configuration>
     <list size="1">
@@ -2767,33 +2755,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_order.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-648">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_order.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-243">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/adapter/AllLogAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-648">
-          <caret line="59" column="18" lean-forward="false" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/view_search.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -2856,39 +2817,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="67" column="36" lean-forward="false" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/popup_menu.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="293" column="15" lean-forward="false" selection-start-line="293" selection-start-column="15" selection-end-line="293" selection-end-column="15" />
-          <folding>
-            <element signature="e#1541#1558#0" expanded="true" />
-            <element signature="e#2192#2209#0" expanded="true" />
-            <element signature="e#2843#2860#0" expanded="true" />
-            <element signature="e#3494#3511#0" expanded="true" />
-            <element signature="e#4349#4366#0" expanded="true" />
-            <element signature="e#5002#5019#0" expanded="true" />
-            <element signature="e#5655#5672#0" expanded="true" />
-            <element signature="e#6310#6327#0" expanded="true" />
-            <element signature="e#6381#9355#0" expanded="false" />
-            <element signature="e#7200#7217#0" expanded="true" />
-            <element signature="e#7897#7914#0" expanded="true" />
-            <element signature="e#8594#8611#0" expanded="true" />
-            <element signature="e#9291#9308#0" expanded="true" />
-            <element signature="e#9361#10061#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/utils/PopupMenuUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="286" column="0" lean-forward="false" selection-start-line="286" selection-start-column="0" selection-end-line="286" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -2966,14 +2894,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-v14/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="27" column="36" lean-forward="false" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/utils/CustomDatePickerUtils/CustomDatePicker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -3010,37 +2930,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_search.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/adapter/DiaoBoAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="61" column="69" lean-forward="false" selection-start-line="61" selection-start-column="69" selection-end-line="61" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/adapter/ChukuAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-108">
-          <caret line="61" column="65" lean-forward="false" selection-start-line="61" selection-start-column="65" selection-end-line="61" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/activity/InfoActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1701">
@@ -3061,20 +2950,6 @@
             <element signature="imports" expanded="false" />
             <element signature="e#2639#2640#0" expanded="false" />
             <element signature="e#2658#2659#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/activity/OrderActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3213">
-          <caret line="164" column="113" lean-forward="false" selection-start-line="164" selection-start-column="113" selection-end-line="164" selection-end-column="113" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#5325#5326#0" expanded="false" />
-            <element signature="e#5365#5366#0" expanded="false" />
-            <element signature="e#9014#9015#0" expanded="false" />
-            <element signature="e#9062#9063#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3182,12 +3057,12 @@
         <state relative-caret-position="189">
           <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
           <folding>
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="false" />
+            <element signature="e#248#249#0" expanded="false" />
+            <element signature="e#282#283#0" expanded="false" />
+            <element signature="e#312#313#0" expanded="false" />
+            <element signature="e#358#359#0" expanded="false" />
+            <element signature="e#396#397#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3215,24 +3090,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_search.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/fragment/SearchDiaoBoFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-108">
-          <caret line="44" column="21" lean-forward="false" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+        <state relative-caret-position="1881">
+          <caret line="166" column="7" lean-forward="false" selection-start-line="166" selection-start-column="7" selection-end-line="166" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/utils/PopupMenuUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="61" column="67" lean-forward="false" selection-start-line="61" selection-start-column="67" selection-end-line="61" selection-end-column="67" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/fragment/SearchDiaoBoFragment.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/popup_menu.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="166" column="7" lean-forward="false" selection-start-line="166" selection-start-column="7" selection-end-line="166" selection-end-column="7" />
+        <state relative-caret-position="96">
+          <caret line="183" column="43" lean-forward="false" selection-start-line="183" selection-start-column="43" selection-end-line="183" selection-end-column="43" />
+          <folding>
+            <element signature="e#1546#1563#0" expanded="true" />
+            <element signature="e#2197#2214#0" expanded="true" />
+            <element signature="e#2848#2865#0" expanded="true" />
+            <element signature="e#3499#3516#0" expanded="true" />
+            <element signature="e#4354#4371#0" expanded="true" />
+            <element signature="e#5007#5024#0" expanded="true" />
+            <element signature="e#5660#5677#0" expanded="true" />
+            <element signature="e#6443#6460#0" expanded="true" />
+            <element signature="e#6514#9488#0" expanded="false" />
+            <element signature="e#7333#7350#0" expanded="true" />
+            <element signature="e#8030#8047#0" expanded="true" />
+            <element signature="e#8727#8744#0" expanded="true" />
+            <element signature="e#9424#9441#0" expanded="true" />
+            <marker date="1548232070931" expanded="false" signature="9549:10233" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_order.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-v14/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/fragment/SearchChuKuFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="71" column="17" lean-forward="false" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/adapter/AllLogAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="48" column="102" lean-forward="false" selection-start-line="42" selection-start-column="7" selection-end-line="48" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/activity/OrderActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="63" column="21" lean-forward="false" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_search.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="56" column="36" lean-forward="false" selection-start-line="56" selection-start-column="36" selection-end-line="56" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_order.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/adapter/ChukuAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="46" column="38" lean-forward="false" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/adapter/DiaoBoAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="39" column="76" lean-forward="false" selection-start-line="39" selection-start-column="76" selection-end-line="39" selection-end-column="76" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3244,20 +3225,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/fragment/SearchChuKuFragment.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_search.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="169" column="13" lean-forward="false" selection-start-line="169" selection-start-column="13" selection-end-line="169" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="351">
+          <caret line="74" column="42" lean-forward="false" selection-start-line="74" selection-start-column="42" selection-end-line="74" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/uhfsdkdemo/Util.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        <state relative-caret-position="186">
+          <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
           <folding>
             <marker date="1496808685687" expanded="true" signature="1272:1279" ph="{...}" />
           </folding>
