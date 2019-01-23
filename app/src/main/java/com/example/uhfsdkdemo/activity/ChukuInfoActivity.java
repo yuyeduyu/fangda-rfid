@@ -73,7 +73,7 @@ public class ChukuInfoActivity extends AppCompatActivity {
         tvDevname.setText(data.getDeviceName());
         tvTime.setText(TimeUtils.longToString(Long.valueOf(data.getScanningTime()),TimeUtils.timeType));
         tvOrderNo.setText(data.getOrderNo());
-        tvTimeKct.setText(data.getTimeKct());
+        tvTimeKct.setText(TimeUtils.longToString(Long.valueOf(data.getTimeKct()), TimeUtils.timeType));
         tvName.setText(data.getProductName());
         tvColor.setText(data.getColor());
         tvLenth.setText(data.getLength()+"");

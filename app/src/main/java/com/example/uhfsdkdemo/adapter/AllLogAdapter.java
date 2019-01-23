@@ -40,14 +40,13 @@ public class AllLogAdapter extends RecyclerView.Adapter<AllLogAdapter.Holder> {
 
     @Override
     public void onBindViewHolder(Holder holder, int position) {
-        holder.id.setText(position+1+"");
-        holder.name.setText(datas.get(position).getName());
+        holder.name.setText(position+1+".  面料名称:  "+datas.get(position).getName());
 //        holder.pNum.setText(datas.get(position).getOrderNumber()+"匹");
 //        holder.mNum.setText(datas.get(position).getRiceNumber()+"米");
-        holder.pNum.setText(String.format("%.2f",Double.valueOf(datas.get(position).getOrderNumber()))+"匹");
-        holder.mNum.setText(String.format("%.2f",Double.valueOf(datas.get(position).getRiceNumber()))+"米");
-        holder.inTime.setText(TimeUtils.parseTime1(datas.get(position).getOrderTime()));
-        holder.outTime.setText(TimeUtils.parseTime1(datas.get(position).getShippingDate()));
+        holder.pNum.setText("匹数:  "+String.format("%.2f",Double.valueOf(datas.get(position).getOrderNumber()))+"匹");
+        holder.mNum.setText("米数:  "+String.format("%.2f",Double.valueOf(datas.get(position).getRiceNumber()))+"米");
+        holder.inTime.setText("进厂日期:  "+TimeUtils.parseTime1(datas.get(position).getOrderTime()));
+        holder.outTime.setText("出厂日期:  "+TimeUtils.parseTime1(datas.get(position).getShippingDate()));
 
     }
 
@@ -57,8 +56,6 @@ public class AllLogAdapter extends RecyclerView.Adapter<AllLogAdapter.Holder> {
     }
 
     class Holder extends RecyclerView.ViewHolder implements View.OnClickListener, View.OnLongClickListener {
-        @BindView(R.id.id)
-        TextView id;
         @BindView(R.id.name)
         TextView name;
         @BindView(R.id.pNum)

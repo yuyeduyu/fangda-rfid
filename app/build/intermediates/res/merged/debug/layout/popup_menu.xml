@@ -2,7 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#e0ffffff"
+    android:background="@color/text_AE"
     android:orientation="vertical">
 
 
@@ -179,7 +179,10 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="出库调拨查询"
+                android:text="出库调拨记录"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:gravity="center"
                 android:textColor="@color/text1"
                 android:textSize="@dimen/testSize" />
         </LinearLayout>
@@ -270,6 +273,7 @@
     </LinearLayout>
 
     <RelativeLayout
+        android:layout_marginTop="20dp"
         android:id="@+id/pop_rl_click"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

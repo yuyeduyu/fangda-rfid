@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:2:1-51:12
+ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:2:1-52:12
 	package
 		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:3:5-37
 		INJECTED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml
@@ -62,7 +62,7 @@ ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManif
 	android:name
 		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:16:22-72
 application
-ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:19:5-49:19
+ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:19:5-50:19
 MERGED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\3a72fe43a544a574c9a36e324d7f131268a7296d\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\f59d45e41930e560acbeb74456cc9cd1b12f280a\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\324b166edfdf31c9a649201d15df5ad7dac1e27b\output\AndroidManifest.xml:26:5-20
@@ -132,17 +132,19 @@ ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManif
 	android:name
 		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:45:19-57
 activity#com.example.uhfsdkdemo.activity.SearchActivity
-ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:46:9-61
+ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:46:9-47:38
+	android:exported
+		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:47:13-36
 	android:name
 		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:46:19-58
 activity#com.example.uhfsdkdemo.activity.ChukuInfoActivity
-ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:47:9-73
+ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:48:9-73
 	android:name
-		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:47:19-61
+		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:48:19-61
 activity#com.example.uhfsdkdemo.activity.DiaoBoInfoActivity
-ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:48:9-74
+ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:49:9-74
 	android:name
-		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:48:19-62
+		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:49:19-62
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\3a72fe43a544a574c9a36e324d7f131268a7296d\output\AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\f59d45e41930e560acbeb74456cc9cd1b12f280a\output\AndroidManifest.xml:25:5-27:34

@@ -47,14 +47,14 @@ public class ChukuAdapter extends RecyclerView.Adapter<ChukuAdapter.Holder> {
         holder.setIsRecyclable(false);
 
         final ChukuResultBean.ChukuBean data = datas.get(position);
-        holder.time.setText(position+1+".扫描时间:"+ TimeUtils.longToString(Long.valueOf(data.getScanningTime()),TimeUtils.timeType));
+        holder.time.setText(position+1+".  扫描时间:  "+ TimeUtils.longToString(Long.valueOf(data.getScanningTime()),TimeUtils.timeType));
         holder.name.setText(data.getProductName());
         holder.color.setText(data.getColor());
-        holder.length.setText("米数:"+data.getLength());
-        holder.code.setText("BARCODE:"+data.getBarcode());
-        holder.shrinkage.setText("缩率:"+data.getShrinkage());
-        holder.deviceName.setText("设备名称:"+data.getDeviceName());
-        holder.storeroom.setText("库房:"+data.getStoreroom());
+        holder.length.setText("米数:  "+data.getLength());
+        holder.code.setText("BARCODE:  "+data.getBarcode());
+        holder.shrinkage.setText("缩率:  "+data.getShrinkage());
+        holder.deviceName.setText("设备名称:  "+data.getDeviceName());
+        holder.storeroom.setText("库房:  "+data.getStoreroom());
 
         holder.itemView.setOnClickListener(new View.OnClickListener() {
             @Override

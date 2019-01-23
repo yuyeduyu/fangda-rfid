@@ -36,6 +36,7 @@ public class DiaoBoInfoActivity_ViewBinding<T extends DiaoBoInfoActivity> implem
     target.tvEndTime = Utils.findRequiredViewAsType(source, R.id.tv_endTime, "field 'tvEndTime'", TextView.class);
     target.tvIsHandFilling = Utils.findRequiredViewAsType(source, R.id.tv_isHandFilling, "field 'tvIsHandFilling'", TextView.class);
     target.tvOutOrderNo = Utils.findRequiredViewAsType(source, R.id.tv_outOrderNo, "field 'tvOutOrderNo'", TextView.class);
+    target.tvNowUser = Utils.findRequiredViewAsType(source, R.id.tv_nowUser, "field 'tvNowUser'", TextView.class);
   }
 
   @Override
@@ -61,6 +62,7 @@ public class DiaoBoInfoActivity_ViewBinding<T extends DiaoBoInfoActivity> implem
     target.tvEndTime = null;
     target.tvIsHandFilling = null;
     target.tvOutOrderNo = null;
+    target.tvNowUser = null;
 
     this.target = null;
   }

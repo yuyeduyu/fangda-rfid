@@ -43,7 +43,8 @@
         <activity android:name=".activity.SetAdminActivity" />
         <activity android:name=".activity.InfoActivity" />
         <activity android:name=".activity.OrderActivity"></activity>
-        <activity android:name=".activity.SearchActivity" />
+        <activity android:name=".activity.SearchActivity"
+            android:exported="true"/>
         <activity android:name=".activity.ChukuInfoActivity"></activity>
         <activity android:name=".activity.DiaoBoInfoActivity"></activity>
     </application>
