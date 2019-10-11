@@ -12,12 +12,12 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
         "merged": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
         "merged": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
@@ -65,7 +65,11 @@
     },
     {
         "merged": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_classic_default_header.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cc09601815a005363876c4eef17ba52f9e0b64a0\\output\\res\\layout\\cube_ptr_classic_default_header.xml"
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\81f14f65e58a237007d40ee8a551ee53f93dff8f\\output\\res\\layout\\cube_ptr_classic_default_header.xml"
+    },
+    {
+        "merged": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settlement.xml",
+        "source": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\layout\\activity_settlement.xml"
     },
     {
         "merged": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
@@ -269,7 +273,7 @@
     },
     {
         "merged": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_simple_loading.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cc09601815a005363876c4eef17ba52f9e0b64a0\\output\\res\\layout\\cube_ptr_simple_loading.xml"
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\81f14f65e58a237007d40ee8a551ee53f93dff8f\\output\\res\\layout\\cube_ptr_simple_loading.xml"
     },
     {
         "merged": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_activity.xml",
@@ -289,7 +293,7 @@
     },
     {
         "merged": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_classic_default_footer.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\cc09601815a005363876c4eef17ba52f9e0b64a0\\output\\res\\layout\\cube_ptr_classic_default_footer.xml"
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\81f14f65e58a237007d40ee8a551ee53f93dff8f\\output\\res\\layout\\cube_ptr_classic_default_footer.xml"
     },
     {
         "merged": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",

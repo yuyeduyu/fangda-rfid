@@ -8,8 +8,8 @@ android {
         applicationId "com.example.uhfsdkdemo"
         minSdkVersion 17
         targetSdkVersion 17
-        versionCode 8
-        versionName "2.0.8"
+        versionCode 9
+        versionName "2.0.9"
     }
 
     buildTypes {
@@ -34,5 +34,6 @@ dependencies {
     compile 'in.srain.cube:ptr-load-more:1.0.6'
     /*butterknife*/
     compile 'com.jakewharton:butterknife:8.4.0'
+//    compile 'com.android.support.constraint:constraint-layout:1.1.3'
     apt 'com.jakewharton:butterknife-compiler:8.4.0'
 }

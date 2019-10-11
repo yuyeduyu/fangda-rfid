@@ -12,7 +12,15 @@
                     "endOffset": 227
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\array.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\array.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 393,
+                        "endLine": 21,
+                        "endColumn": 19,
+                        "endOffset": 576
+                    }
                 }
             },
             {
@@ -25,7 +33,15 @@
                     "endOffset": 386
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\array.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\array.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 582,
+                        "endLine": 27,
+                        "endColumn": 19,
+                        "endOffset": 745
+                    }
                 }
             },
             {
@@ -38,7 +54,15 @@
                     "endOffset": 545
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\array.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\array.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 7,
+                        "endColumn": 19,
+                        "endOffset": 220
+                    }
                 }
             },
             {
@@ -51,7 +75,15 @@
                     "endOffset": 700
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\array.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\array.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 228,
+                        "endLine": 14,
+                        "endColumn": 19,
+                        "endOffset": 387
+                    }
                 }
             },
             {
@@ -63,7 +95,14 @@
                     "endOffset": 796
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 95,
+                        "endOffset": 146
+                    }
                 }
             },
             {
@@ -75,7 +114,14 @@
                     "endOffset": 903
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 106,
+                        "endOffset": 253
+                    }
                 }
             },
             {
@@ -87,7 +133,14 @@
                     "endOffset": 1026
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 258,
+                        "endColumn": 122,
+                        "endOffset": 376
+                    }
                 }
             },
             {
@@ -99,7 +152,14 @@
                     "endOffset": 1121
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 381,
+                        "endColumn": 94,
+                        "endOffset": 471
+                    }
                 }
             },
             {
@@ -111,7 +171,14 @@
                     "endOffset": 1221
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 476,
+                        "endColumn": 99,
+                        "endOffset": 571
+                    }
                 }
             },
             {
@@ -123,7 +190,14 @@
                     "endOffset": 1303
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 576,
+                        "endColumn": 81,
+                        "endOffset": 653
+                    }
                 }
             },
             {
@@ -135,7 +209,14 @@
                     "endOffset": 1400
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 658,
+                        "endColumn": 96,
+                        "endOffset": 750
+                    }
                 }
             },
             {
@@ -147,7 +228,14 @@
                     "endOffset": 1506
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 755,
+                        "endColumn": 105,
+                        "endOffset": 856
+                    }
                 }
             },
             {
@@ -159,7 +247,14 @@
                     "endOffset": 1582
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 861,
+                        "endColumn": 75,
+                        "endOffset": 932
+                    }
                 }
             },
             {
@@ -171,7 +266,14 @@
                     "endOffset": 1658
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 937,
+                        "endColumn": 75,
+                        "endOffset": 1008
+                    }
                 }
             },
             {
@@ -183,7 +285,14 @@
                     "endOffset": 1736
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1013,
+                        "endColumn": 77,
+                        "endOffset": 1086
+                    }
                 }
             },
             {
@@ -195,7 +304,14 @@
                     "endOffset": 1832
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1091,
+                        "endColumn": 95,
+                        "endOffset": 1182
+                    }
                 }
             },
             {
@@ -207,7 +323,14 @@
                     "endOffset": 1928
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1187,
+                        "endColumn": 95,
+                        "endOffset": 1278
+                    }
                 }
             },
             {
@@ -219,7 +342,14 @@
                     "endOffset": 2023
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1283,
+                        "endColumn": 94,
+                        "endOffset": 1373
+                    }
                 }
             },
             {
@@ -231,7 +361,14 @@
                     "endOffset": 2120
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1378,
+                        "endColumn": 96,
+                        "endOffset": 1470
+                    }
                 }
             },
             {
@@ -243,7 +380,14 @@
                     "endOffset": 2215
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1475,
+                        "endColumn": 94,
+                        "endOffset": 1565
+                    }
                 }
             },
             {
@@ -255,7 +399,14 @@
                     "endOffset": 2313
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1570,
+                        "endColumn": 97,
+                        "endOffset": 1663
+                    }
                 }
             },
             {
@@ -267,7 +418,14 @@
                     "endOffset": 2425
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1668,
+                        "endColumn": 111,
+                        "endOffset": 1775
+                    }
                 }
             },
             {
@@ -279,7 +437,14 @@
                     "endOffset": 2519
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1780,
+                        "endColumn": 93,
+                        "endOffset": 1869
+                    }
                 }
             },
             {
@@ -291,7 +456,14 @@
                     "endOffset": 2568
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 432,
+                        "endColumn": 45,
+                        "endOffset": 476
+                    }
                 }
             },
             {
@@ -322,7 +494,14 @@
                     "endOffset": 2654
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 478,
+                        "endColumn": 35,
+                        "endOffset": 512
+                    }
                 }
             },
             {
@@ -334,7 +513,14 @@
                     "endOffset": 2700
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 8,
+                        "startOffset": 60,
+                        "endColumn": 49,
+                        "endOffset": 101
+                    }
                 }
             },
             {
@@ -346,7 +532,14 @@
                     "endOffset": 2737
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 860,
+                        "endColumn": 33,
+                        "endOffset": 892
+                    }
                 }
             },
             {
@@ -358,7 +551,14 @@
                     "endOffset": 2804
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1348,
+                        "endColumn": 66,
+                        "endOffset": 1410
+                    }
                 }
             },
             {
@@ -370,7 +570,14 @@
                     "endOffset": 2871
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1156,
+                        "endColumn": 66,
+                        "endOffset": 1218
+                    }
                 }
             },
             {
@@ -382,7 +589,14 @@
                     "endOffset": 2908
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 357,
+                        "endColumn": 36,
+                        "endOffset": 389
+                    }
                 }
             },
             {
@@ -394,7 +608,14 @@
                     "endOffset": 2949
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 40,
+                        "endOffset": 189
+                    }
                 }
             },
             {
@@ -406,7 +627,14 @@
                     "endOffset": 2986
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 228,
+                        "endColumn": 36,
+                        "endOffset": 260
+                    }
                 }
             },
             {
@@ -418,7 +646,14 @@
                     "endOffset": 3048
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 61,
+                        "endOffset": 1343
+                    }
                 }
             },
             {
@@ -430,7 +665,14 @@
                     "endOffset": 3097
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1524,
+                        "endColumn": 48,
+                        "endOffset": 1568
+                    }
                 }
             },
             {
@@ -442,7 +684,14 @@
                     "endOffset": 3142
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1111,
+                        "endColumn": 44,
+                        "endOffset": 1151
+                    }
                 }
             },
             {
@@ -454,7 +703,14 @@
                     "endOffset": 3176
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 194,
+                        "endColumn": 33,
+                        "endOffset": 223
+                    }
                 }
             },
             {
@@ -466,7 +722,14 @@
                     "endOffset": 3219
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 265,
+                        "endColumn": 42,
+                        "endOffset": 303
+                    }
                 }
             },
             {
@@ -478,7 +741,14 @@
                     "endOffset": 3257
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 744,
+                        "endColumn": 34,
+                        "endOffset": 777
+                    }
                 }
             },
             {
@@ -490,7 +760,14 @@
                     "endOffset": 3303
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 1,
+                        "startOffset": 779,
+                        "endColumn": 42,
+                        "endOffset": 820
+                    }
                 }
             },
             {
@@ -502,7 +779,14 @@
                     "endOffset": 3368
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1415,
+                        "endColumn": 64,
+                        "endOffset": 1475
+                    }
                 }
             },
             {
@@ -514,7 +798,14 @@
                     "endOffset": 3410
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 514,
+                        "endColumn": 38,
+                        "endOffset": 551
+                    }
                 }
             },
             {
@@ -526,7 +817,14 @@
                     "endOffset": 3451
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 706,
+                        "endColumn": 37,
+                        "endOffset": 742
+                    }
                 }
             },
             {
@@ -538,7 +836,14 @@
                     "endOffset": 3493
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 667,
+                        "endColumn": 38,
+                        "endOffset": 704
+                    }
                 }
             },
             {
@@ -550,7 +855,14 @@
                     "endOffset": 3534
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 394,
+                        "endColumn": 40,
+                        "endOffset": 430
+                    }
                 }
             },
             {
@@ -562,7 +874,14 @@
                     "endOffset": 3586
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 897,
+                        "endColumn": 51,
+                        "endOffset": 944
+                    }
                 }
             },
             {
@@ -574,7 +893,14 @@
                     "endOffset": 3623
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 553,
+                        "endColumn": 33,
+                        "endOffset": 585
+                    }
                 }
             },
             {
@@ -586,7 +912,14 @@
                     "endOffset": 3664
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 1,
+                        "startOffset": 822,
+                        "endColumn": 37,
+                        "endOffset": 858
+                    }
                 }
             },
             {
@@ -598,7 +931,14 @@
                     "endOffset": 3705
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1028,
+                        "endColumn": 40,
+                        "endOffset": 1064
+                    }
                 }
             },
             {
@@ -610,7 +950,14 @@
                     "endOffset": 3783
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1874,
+                        "endColumn": 77,
+                        "endOffset": 1947
+                    }
                 }
             },
             {
@@ -622,7 +969,14 @@
                     "endOffset": 3827
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 949,
+                        "endColumn": 43,
+                        "endOffset": 988
+                    }
                 }
             },
             {
@@ -634,7 +988,14 @@
                     "endOffset": 3862
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 993,
+                        "endColumn": 34,
+                        "endOffset": 1023
+                    }
                 }
             },
             {
@@ -646,7 +1007,14 @@
                     "endOffset": 3906
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1480,
+                        "endColumn": 43,
+                        "endOffset": 1519
+                    }
                 }
             },
             {
@@ -658,7 +1026,14 @@
                     "endOffset": 4007
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f59d45e41930e560acbeb74456cc9cd1b12f280a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1952,
+                        "endColumn": 100,
+                        "endOffset": 2048
+                    }
                 }
             },
             {
@@ -670,7 +1045,14 @@
                     "endOffset": 4055
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 5,
+                        "startOffset": 309,
+                        "endColumn": 48,
+                        "endOffset": 352
+                    }
                 }
             },
             {
@@ -682,7 +1064,14 @@
                     "endOffset": 4118
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1223,
+                        "endColumn": 62,
+                        "endOffset": 1281
+                    }
                 }
             },
             {
@@ -694,7 +1083,14 @@
                     "endOffset": 4160
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1069,
+                        "endColumn": 41,
+                        "endOffset": 1106
+                    }
                 }
             },
             {
@@ -706,7 +1102,14 @@
                     "endOffset": 4198
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 587,
+                        "endColumn": 34,
+                        "endOffset": 620
+                    }
                 }
             },
             {
@@ -718,7 +1121,14 @@
                     "endOffset": 4246
                 },
                 "from": {
-                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 622,
+                        "endColumn": 44,
+                        "endOffset": 665
+                    }
                 }
             }
         ]

@@ -40,14 +40,15 @@ public class AllLogAdapter extends RecyclerView.Adapter<AllLogAdapter.Holder> {
 
     @Override
     public void onBindViewHolder(Holder holder, int position) {
-        holder.name.setText(position+1+".  面料名称:  "+datas.get(position).getName());
+        holder.name.setText(position + 1 + ".  名称:  " + datas.get(position).getName());
+        holder.color.setText("颜色:  " + datas.get(position).getColor());
+        holder.factroy.setText("工厂:  " + datas.get(position).getFactroy());
 //        holder.pNum.setText(datas.get(position).getOrderNumber()+"匹");
 //        holder.mNum.setText(datas.get(position).getRiceNumber()+"米");
-        holder.pNum.setText("匹数:  "+String.format("%.2f",Double.valueOf(datas.get(position).getOrderNumber()))+"匹");
-        holder.mNum.setText("米数:  "+String.format("%.2f",Double.valueOf(datas.get(position).getRiceNumber()))+"米");
-        holder.inTime.setText("进厂日期:  "+TimeUtils.parseTime1(datas.get(position).getOrderTime()));
-        holder.outTime.setText("出厂日期:  "+TimeUtils.parseTime1(datas.get(position).getShippingDate()));
-
+        holder.pNum.setText("匹数:  " + String.format("%.2f", Double.valueOf(datas.get(position).getOrderNumber())) + "匹");
+        holder.mNum.setText("米数:  " + String.format("%.2f", Double.valueOf(datas.get(position).getRiceNumber())) + "米");
+        holder.inTime.setText("进厂日期:  " + TimeUtils.parseTime1(datas.get(position).getOrderTime()));
+        holder.outTime.setText("出厂日期:  " + TimeUtils.parseTime1(datas.get(position).getShippingDate()));
     }
 
     @Override
@@ -66,7 +67,10 @@ public class AllLogAdapter extends RecyclerView.Adapter<AllLogAdapter.Holder> {
         TextView inTime;
         @BindView(R.id.outTime)
         TextView outTime;
-
+        @BindView(R.id.color)
+        TextView color;
+        @BindView(R.id.factroy)
+        TextView factroy;
         Holder(View itemView) {
             super(itemView);
             ButterKnife.bind(this, itemView);

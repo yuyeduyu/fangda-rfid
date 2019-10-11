@@ -178,15 +178,15 @@ public class PopupMenuUtil {
         objectAnimator.setDuration(200);
         objectAnimator.start();
 
-        _startAnimation(llTest1, 500, animatorProperty);
-        _startAnimation(llTest2, 430, animatorProperty);
-        _startAnimation(llTest3, 430, animatorProperty);
-        _startAnimation(llTest4, 500, animatorProperty);
-
-        _startAnimation(llTest5, 500, animatorProperty);
-        _startAnimation(llTest6, 430, animatorProperty);
-        _startAnimation(llTest7, 430, animatorProperty);
-        _startAnimation(llTest8, 500, animatorProperty);
+//        _startAnimation(llTest1, 500, animatorProperty);
+//        _startAnimation(llTest2, 430, animatorProperty);
+//        _startAnimation(llTest3, 430, animatorProperty);
+//        _startAnimation(llTest4, 500, animatorProperty);
+//
+//        _startAnimation(llTest5, 500, animatorProperty);
+//        _startAnimation(llTest6, 430, animatorProperty);
+//        _startAnimation(llTest7, 430, animatorProperty);
+//        _startAnimation(llTest8, 500, animatorProperty);
     }
 
 

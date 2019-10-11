@@ -20,8 +20,6 @@
             android:layout_marginTop="30dip"
             android:src="@mipmap/ad4" />
 
-
-
     </LinearLayout>
 
     <LinearLayout
@@ -29,7 +27,23 @@
         android:layout_height="60dp"
         android:gravity="bottom"
         android:orientation="horizontal">
+        <LinearLayout
+            android:id="@+id/test2"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="@color/view_backgroud"
+            android:gravity="center"
+            android:orientation="vertical">
 
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="调拨"
+                android:textColor="@color/text1"
+                android:textSize="@dimen/testSize" />
+        </LinearLayout>
         <LinearLayout
             android:id="@+id/test1"
             android:layout_width="0dip"
@@ -50,24 +64,6 @@
         </LinearLayout>
 
         <LinearLayout
-            android:id="@+id/test2"
-            android:layout_width="0dip"
-            android:layout_height="match_parent"
-            android:layout_margin="5dp"
-            android:layout_weight="1"
-            android:background="@color/view_backgroud"
-            android:gravity="center"
-            android:orientation="vertical">
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="调拨"
-                android:textColor="@color/text1"
-                android:textSize="@dimen/testSize" />
-        </LinearLayout>
-
-        <LinearLayout
             android:id="@+id/test3"
             android:layout_width="0dip"
             android:layout_height="match_parent"
@@ -80,13 +76,13 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="入库"
+                android:text="激活"
                 android:textColor="@color/text1"
                 android:textSize="@dimen/testSize" />
         </LinearLayout>
 
         <LinearLayout
-            android:id="@+id/test4"
+            android:id="@+id/test6"
             android:layout_width="0dip"
             android:layout_height="match_parent"
             android:layout_margin="5dp"
@@ -98,7 +94,10 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="出库"
+                android:text="出库调拨记录"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:gravity="center"
                 android:textColor="@color/text1"
                 android:textSize="@dimen/testSize" />
         </LinearLayout>
@@ -165,9 +164,8 @@
                 android:textColor="@color/text1"
                 android:textSize="@dimen/testSize" />
         </LinearLayout>
-
         <LinearLayout
-            android:id="@+id/test6"
+            android:id="@+id/test4"
             android:layout_width="0dip"
             android:layout_height="match_parent"
             android:layout_margin="5dp"
@@ -179,20 +177,18 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="出库调拨记录"
-                android:paddingLeft="10dp"
-                android:paddingRight="10dp"
-                android:gravity="center"
+                android:text="出库"
                 android:textColor="@color/text1"
                 android:textSize="@dimen/testSize" />
         </LinearLayout>
+
     </LinearLayout>
 
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="60dp"
-        android:visibility="gone"
+
         android:layout_marginTop="20dp"
         android:orientation="horizontal">
 
@@ -209,7 +205,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="调拨查询"
+                android:text="结算查询"
                 android:textColor="@color/text1"
                 android:textSize="@dimen/testSize" />
         </LinearLayout>

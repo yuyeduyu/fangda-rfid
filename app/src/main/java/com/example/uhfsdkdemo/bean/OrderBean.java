@@ -20,6 +20,24 @@ public class OrderBean implements Comparable<OrderBean> {
     private double orderNumber;
     private double riceNumber;
     private String shippingDate;
+    private String factroy;
+    private String color;
+
+    public String getFactroy() {
+        return factroy;
+    }
+
+    public void setFactroy(String factroy) {
+        this.factroy = factroy;
+    }
+
+    public String getColor() {
+        return color;
+    }
+
+    public void setColor(String color) {
+        this.color = color;
+    }
 
     public String getName() {
         return name;

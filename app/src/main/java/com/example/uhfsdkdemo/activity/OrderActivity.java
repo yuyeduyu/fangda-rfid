@@ -14,6 +14,7 @@ import android.view.View;
 import android.view.WindowManager;
 import android.widget.EditText;
 import android.widget.ImageView;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.uhfsdkdemo.R;
@@ -56,7 +57,8 @@ public class OrderActivity extends AppCompatActivity {
     @BindView(R.id.recyclerview)
     RecyclerView recyclerview;
     private String TAG = getClass().getCanonicalName();
-
+    @BindView(R.id.num)
+    TextView num;
     ArrayList<OrderBean> mLogs = new ArrayList<>();
     private int pager = 1;//数据库查询页数
     private int pagerSize = 100;//数据库每次查询数量
@@ -84,7 +86,7 @@ public class OrderActivity extends AppCompatActivity {
 
     private void initRefresh() {
         storeHousePtrFrame.setLastUpdateTimeRelateObject(this);
-        storeHousePtrFrame.setPtrHandler(new PtrHandler2() {
+ /*       storeHousePtrFrame.setPtrHandler(new PtrHandler2() {
             @Override
             public boolean checkCanDoLoadMore(PtrFrameLayout frame, View content, View footer) {
                 return PtrDefaultHandler2.checkContentCanBePulledUp(frame, content, footer);
@@ -106,12 +108,7 @@ public class OrderActivity extends AppCompatActivity {
             @Override
             public void onRefreshBegin(PtrFrameLayout frame) {
                 //下拉刷新
-                if (!TextUtils.isEmpty(filterEdit.getText().toString())) {
-                    selectData(filterEdit.getText().toString().trim());
-                } else {
-                    Toast.makeText(OrderActivity.this, "请输入色号", Toast.LENGTH_SHORT).show();
-                    storeHousePtrFrame.refreshComplete();
-                }
+                storeHousePtrFrame.refreshComplete();
             }
 
             @Override
@@ -119,7 +116,7 @@ public class OrderActivity extends AppCompatActivity {
                 return PtrDefaultHandler.checkContentCanBePulledDown(frame, content, header);
             }
 
-        });
+        });*/
         // the following are default settings
         storeHousePtrFrame.setResistance(1.7f);
         storeHousePtrFrame.setRatioOfHeaderHeightToRefresh(1.2f);
@@ -151,26 +148,19 @@ public class OrderActivity extends AppCompatActivity {
 
     //查询
     private void selectData(final String data) {
-//        final WaitDialog waitDialog = new WaitDialog(OrderActivity.this);
-//        waitDialog.setContent("正在查询...");
-//        waitDialog.show();
         SharedPreferences mSharedPrefs = PreferenceManager.getDefaultSharedPreferences(this);
         AsyncHttpClient mAsyncHttpclient = new AsyncHttpClient();
+        mAsyncHttpclient.setTimeout(60*1000);
         String remote_ip = mSharedPrefs.getString("remote_admin_ip", Server.admin_server);
         String remote_port = mSharedPrefs.getString("remote_admin_port", Server.admin_port);
-
-//        /order/findOrderByColor 订单查询的接口
-//        color 传这个色号
-
         String url = "http://" + remote_ip + ":" + remote_port + Server.serveradress + "/order/findOrderByColor";
-
+//        String url = "http://q4sx2p.natappfree.cc"  + Server.serveradress + "/order/findOrderByColor";
         RequestParams params = new RequestParams();
         params.put("color", data);
 
         mAsyncHttpclient.post(url, params, new AsyncHttpResponseHandler() {
             @Override
             public void onSuccess(int statusCode, Header[] headers, byte[] responseByte) {
-                storeHousePtrFrame.refreshComplete();
                 String successStr = new String(responseByte);
                 successStr = successStr.substring(1, successStr.length() - 1);
                 successStr = successStr.replace("\\", "");
@@ -187,9 +177,6 @@ public class OrderActivity extends AppCompatActivity {
                 } else {
                     analysisResp(successStr);
                 }
-
-//                waitDialog.dismiss();
-
             }
 
             @Override
@@ -211,7 +198,6 @@ public class OrderActivity extends AppCompatActivity {
         JsonParser parser = new JsonParser();
         //通过JsonParser对象可以把json格式的字符串解析成一个JsonElement对象
         JsonElement el = parser.parse(successStr);
-
         //把JsonElement对象转换成JsonArray
         JsonArray jsonArray = null;
         if (el.isJsonArray()) {
@@ -225,21 +211,33 @@ public class OrderActivity extends AppCompatActivity {
             //JsonElement转换为JavaBean对象
             product = gson.fromJson(e, OrderBean.class);
             try {
-                if ((System.currentTimeMillis()/1000 - TimeUtils.dateToStamp(TimeUtils.parseTime1(product.getOrderTime())))
-                        < 6 * 30 * 24 * 60 *60)
+                if ((System.currentTimeMillis() / 1000 - TimeUtils.dateToStamp(TimeUtils.parseTime1(product.getOrderTime())))
+                        < 6 * 30 * 24 * 60 * 60)
                     mLogs.add(product);
             } catch (ParseException e1) {
                 e1.printStackTrace();
             }
         }
-        Collections.sort(mLogs);
-        adapter.notifyDataSetChanged();
-//        if (waitDialog != null)
-//            waitDialog.dismiss();
+        num.setText("最近6个月共查询到"+mLogs.size()+"个订单");
+        storeHousePtrFrame.refreshComplete();
+        if (mLogs.size() < 1) {
+            Toast.makeText(OrderActivity.this, "该色号最近6个月无进厂记录", Toast.LENGTH_SHORT).show();
+        } else {
+            Collections.sort(mLogs);
+            adapter.notifyDataSetChanged();
+        }
+
     }
 
     @OnClick(R.id.search)
     public void onViewClicked() {
-        storeHousePtrFrame.autoRefresh();
+        if (!TextUtils.isEmpty(filterEdit.getText().toString())) {
+            storeHousePtrFrame.autoRefresh();
+            selectData(filterEdit.getText().toString().trim());
+        } else {
+            Toast.makeText(OrderActivity.this, "请输入色号", Toast.LENGTH_SHORT).show();
+//            storeHousePtrFrame.refreshComplete();
+        }
+
     }
 }

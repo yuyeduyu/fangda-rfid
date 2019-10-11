@@ -499,7 +499,11 @@ public class RFIDActivity extends AppCompatActivity implements OnClickListener, 
                 break;
             case "8":
                 //订单查询
-				startActivity(new Intent(RFIDActivity.this,OrderActivity.class));
+                startActivity(new Intent(RFIDActivity.this, OrderActivity.class));
+                break;
+            case "9":
+                //结算查询
+                startActivity(new Intent(RFIDActivity.this, SettlementActivity.class));
                 break;
         }
     }
@@ -520,6 +524,7 @@ public class RFIDActivity extends AppCompatActivity implements OnClickListener, 
 //            selectDJ("170806017001", i);
         }
     }
+
     //查询 冻结状态
     private void selectDJ(final String data, final int i) {
         SharedPreferences mSharedPrefs = PreferenceManager.getDefaultSharedPreferences(this);
@@ -527,7 +532,7 @@ public class RFIDActivity extends AppCompatActivity implements OnClickListener, 
         String remote_ip = mSharedPrefs.getString("remote_admin_ip", Server.admin_server);
         String remote_port = mSharedPrefs.getString("remote_admin_port", Server.admin_port);
 
-        String url = "http://" +remote_ip + ":" +remote_port+ Server.serveradress+"/findDJByCode";
+        String url = "http://" + remote_ip + ":" + remote_port + Server.serveradress + "/findDJByCode";
 //		String accountName = mSharedPrefs.getString("phone", null);
 
         RequestParams params = new RequestParams();
@@ -538,12 +543,12 @@ public class RFIDActivity extends AppCompatActivity implements OnClickListener, 
             public void onSuccess(int statusCode, Header[] headers, byte[] responseByte) {
 
                 String successStr = new String(responseByte);
-                successStr = successStr.substring(1,successStr.length()-1);
-                successStr=successStr.replace("\\", "");
-                Log.e("success",successStr);
+                successStr = successStr.substring(1, successStr.length() - 1);
+                successStr = successStr.replace("\\", "");
+                Log.e("success", successStr);
                 try {
-                    JSONObject jsonObject=new JSONObject(successStr);
-                    if(jsonObject.has("dongJ")){
+                    JSONObject jsonObject = new JSONObject(successStr);
+                    if (jsonObject.has("dongJ")) {
                         String dongJ = jsonObject.get("dongJ").toString();//RFIDF
                         InfoData infoData = new InfoData();
                         infoData.setId(i);
@@ -552,7 +557,7 @@ public class RFIDActivity extends AppCompatActivity implements OnClickListener, 
                     }
                 } catch (JSONException e) {
                     e.printStackTrace();
-                    Log.e("e",e.toString());
+                    Log.e("e", e.toString());
                 }
             }
 
@@ -562,10 +567,11 @@ public class RFIDActivity extends AppCompatActivity implements OnClickListener, 
             }
         });
     }
+
     //查询
     private void selectData(final String data, final int i) {
         /*InfoData infoData = new InfoData();
-		infoData.setColor("颜色"+i);
+        infoData.setColor("颜色"+i);
 		infoData.setId(i);
 		infoData.setLength("米数"+i);
 		infoData.setName("名称"+i);
@@ -652,20 +658,20 @@ public class RFIDActivity extends AppCompatActivity implements OnClickListener, 
     public void FTPEvent(InfoData event) {
         if (event.getName() != null)
             listMap.get(event.getId()).put("name", event.getName());
-        if (event.getColor()!=null)
-        listMap.get(event.getId()).put("color", event.getColor());
-        if (event.getLength()!=null)
-        listMap.get(event.getId()).put("length", event.getLength());
+        if (event.getColor() != null)
+            listMap.get(event.getId()).put("color", event.getColor());
+        if (event.getLength() != null)
+            listMap.get(event.getId()).put("length", event.getLength());
         if (event.getLock() != null) {
             if (event.getLock().equals(InfoData.isLocked)) {
-            listMap.get(event.getId()).put("lock", String.valueOf(R.mipmap.lock));
-        } else
-            listMap.get(event.getId()).put("lock", String.valueOf(0));
+                listMap.get(event.getId()).put("lock", String.valueOf(R.mipmap.lock));
+            } else
+                listMap.get(event.getId()).put("lock", String.valueOf(0));
         }
         Collections.sort(listMap, new Comparator<Map<String, Object>>() {
             public int compare(Map<String, Object> o1, Map<String, Object> o2) {
-                Double name1 = Double.valueOf(o1.get("length").toString().substring(0,o1.get("length").toString().length()-1).toString()) ;//name1是从你list里面拿出来的一个
-                Double name2 = Double.valueOf(o2.get("length").toString().substring(0,o2.get("length").toString().length()-1).toString()) ; //name1是从你list里面拿出来的第二个name
+                Double name1 = Double.valueOf(o1.get("length").toString().substring(0, o1.get("length").toString().length() - 1).toString());//name1是从你list里面拿出来的一个
+                Double name2 = Double.valueOf(o2.get("length").toString().substring(0, o2.get("length").toString().length() - 1).toString()); //name1是从你list里面拿出来的第二个name
                 return name1.compareTo(name2);
             }
         });
@@ -801,7 +807,7 @@ public class RFIDActivity extends AppCompatActivity implements OnClickListener, 
             public void onSuccess(int statusCode, Header[] headers, byte[] responseByte) {
 
                 String successStr = new String(responseByte);
-                analysisResp(successStr, "入库", waitDialog);
+                analysisResp(successStr, "激活", waitDialog);
 				/*if (successStr.equals("\"success\"")) {
 					//入库成功，清楚数据
 					Toast.makeText(RFIDActivity.this, "入库成功  ", Toast.LENGTH_LONG).show();
