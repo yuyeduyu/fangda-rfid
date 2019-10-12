@@ -228,10 +228,10 @@ public class RFIDActivity extends AppCompatActivity implements OnClickListener, 
      */
     private void testData() {
         listMap = new ArrayList<Map<String, Object>>();
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < 2; i++) {
             Map<String, Object> map = new HashMap<String, Object>();
             map.put("ID", 0 + i);
-            map.put("EPC", "0000");
+            map.put("EPC", "0000"+i);
             map.put("COUNT", 1 + i);
             listMap.add(map);
         }
@@ -800,7 +800,8 @@ public class RFIDActivity extends AppCompatActivity implements OnClickListener, 
 //		String url = "http://192.168.1.5:8080/fdsc/inComing";
         RequestParams params = new RequestParams();
         params.put("rfids", new Gson().toJson(datalist));
-        params.put("equInfor", equnitorName);
+//        params.put("equInfor", equnitorName);
+        params.put("equInfor", "门店");
 
         mAsyncHttpclient.post(url, params, new AsyncHttpResponseHandler() {
             @Override

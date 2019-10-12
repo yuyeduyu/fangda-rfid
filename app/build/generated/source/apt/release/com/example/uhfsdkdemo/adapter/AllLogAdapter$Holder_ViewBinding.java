@@ -23,6 +23,8 @@ public class AllLogAdapter$Holder_ViewBinding<T extends AllLogAdapter.Holder> im
     target.mNum = Utils.findRequiredViewAsType(source, R.id.mNum, "field 'mNum'", TextView.class);
     target.inTime = Utils.findRequiredViewAsType(source, R.id.inTime, "field 'inTime'", TextView.class);
     target.outTime = Utils.findRequiredViewAsType(source, R.id.outTime, "field 'outTime'", TextView.class);
+    target.color = Utils.findRequiredViewAsType(source, R.id.color, "field 'color'", TextView.class);
+    target.factroy = Utils.findRequiredViewAsType(source, R.id.factroy, "field 'factroy'", TextView.class);
   }
 
   @Override
@@ -36,6 +38,8 @@ public class AllLogAdapter$Holder_ViewBinding<T extends AllLogAdapter.Holder> im
     target.mNum = null;
     target.inTime = null;
     target.outTime = null;
+    target.color = null;
+    target.factroy = null;
 
     this.target = null;
   }

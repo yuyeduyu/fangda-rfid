@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.uhfsdkdemo"
     android:versionCode="9"
-    android:versionName="2.0.9" >
+    android:versionName="2.0.10" >
 
     <uses-sdk
         android:minSdkVersion="17"
@@ -48,10 +48,7 @@
             android:exported="true" />
         <activity android:name="com.example.uhfsdkdemo.activity.ChukuInfoActivity" />
         <activity android:name="com.example.uhfsdkdemo.activity.DiaoBoInfoActivity" />
-        <activity
-            android:name="com.example.uhfsdkdemo.activity.SettlementActivity"
-            android:label="@string/title_activity_settlement"
-            android:theme="@style/AppTheme" />
+        <activity android:name="com.example.uhfsdkdemo.activity.SettlementActivity" />
     </application>
 
 </manifest>

@@ -20,7 +20,13 @@
             android:layout_weight="1"/>
 
     </LinearLayout>
-
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/num"
+        android:background="@color/view_backgroud"
+        android:textColor="@color/colorPrimaryDark"
+        android:padding="5dp" />
     <in.srain.cube.views.ptr.PtrClassicFrameLayout xmlns:cube_ptr="http://schemas.android.com/apk/res-auto"
         android:id="@+id/store_house_ptr_frame"
         android:layout_width="match_parent"

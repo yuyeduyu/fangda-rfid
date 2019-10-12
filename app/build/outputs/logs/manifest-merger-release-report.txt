@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:2:1-55:12
+ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:2:1-54:12
 	package
 		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:3:5-37
 		INJECTED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml
@@ -29,8 +29,8 @@ MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administr
 MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\5e6599ccfe1c25cb2ac05238d0af9b730243a868\output\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\f9493b59ab2d545f6a3acd485bcb23006b488410\output\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\86b128fd3e34d9f270d1477b2df8793e3f0f5d0c\output\AndroidManifest.xml:21:5-23:58
-MERGED from [in.srain.cube:ptr-load-more:1.0.6] C:\Users\Administrator\.android\build-cache\cc09601815a005363876c4eef17ba52f9e0b64a0\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\Administrator\.android\build-cache\13516ff5172c0bfa070e6938ef343a002cf1f826\output\AndroidManifest.xml:5:5-43
+MERGED from [in.srain.cube:ptr-load-more:1.0.6] C:\Users\Administrator\.android\build-cache\81f14f65e58a237007d40ee8a551ee53f93dff8f\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\Administrator\.android\build-cache\fa893e6281fe0cc55a652c91dbb46e9ca778e8a7\output\AndroidManifest.xml:5:5-43
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\3a72fe43a544a574c9a36e324d7f131268a7296d\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
@@ -50,27 +50,27 @@ ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManif
 	android:name
 		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:12:22-69
 uses-permission#android.permission.INTERNET
-ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:14:5-83
+ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:13:5-67
 	android:name
-		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:14:22-64
+		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:13:22-64
 uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
-ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:15:5-100
+ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:14:5-84
 	android:name
-		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:15:22-81
+		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:14:22-81
 uses-permission#android.permission.INSTALL_PACKAGES
-ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:16:5-91
+ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:15:5-75
 	android:name
-		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:16:22-72
+		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:15:22-72
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:19:5-81
+ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:18:5-81
 	android:name
-		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:19:22-78
+		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:18:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:20:5-80
+ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:19:5-80
 	android:name
-		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:20:22-77
+		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:19:22-77
 application
-ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:21:5-53:19
+ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:21:5-52:19
 MERGED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\3a72fe43a544a574c9a36e324d7f131268a7296d\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\f59d45e41930e560acbeb74456cc9cd1b12f280a\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\324b166edfdf31c9a649201d15df5ad7dac1e27b\output\AndroidManifest.xml:26:5-20
@@ -82,79 +82,75 @@ MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administr
 MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\5e6599ccfe1c25cb2ac05238d0af9b730243a868\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\f9493b59ab2d545f6a3acd485bcb23006b488410\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\86b128fd3e34d9f270d1477b2df8793e3f0f5d0c\output\AndroidManifest.xml:29:5-20
-MERGED from [in.srain.cube:ptr-load-more:1.0.6] C:\Users\Administrator\.android\build-cache\cc09601815a005363876c4eef17ba52f9e0b64a0\output\AndroidManifest.xml:11:5-20
+MERGED from [in.srain.cube:ptr-load-more:1.0.6] C:\Users\Administrator\.android\build-cache\81f14f65e58a237007d40ee8a551ee53f93dff8f\output\AndroidManifest.xml:11:5-20
 	android:label
-		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:24:9-41
+		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:25:9-41
 	android:allowBackup
-		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:22:9-35
+		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:23:9-35
 	android:icon
-		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:23:9-46
+		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:24:9-46
 	android:theme
 		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:26:9-40
 	android:name
-		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:25:9-38
+		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:22:9-38
 activity#com.example.uhfsdkdemo.activity.RFIDActivity
-ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:27:9-36:20
+ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:27:9-35:20
 	android:label
 		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:29:13-45
-	android:launchMode
-		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:30:13-44
 	android:name
 		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:28:13-50
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:31:13-35:29
+ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:30:13-34:29
 action#android.intent.action.MAIN
-ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:32:17-69
+ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:31:17-69
 	android:name
-		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:32:25-66
+		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:31:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:34:17-77
+ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:33:17-77
 	android:name
-		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:34:27-74
+		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:33:27-74
 activity#com.example.uhfsdkdemo.activity.SettingActivity
-ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:37:9-39:47
-	android:launchMode
-		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:39:13-44
+ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:36:9-37:56
 	android:name
-		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:38:13-53
+		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:37:13-53
 activity#com.example.uhfsdkdemo.activity.MoreHandleActivity
-ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:40:9-42:47
-	android:launchMode
-		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:42:13-44
+ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:38:9-39:59
 	android:name
-		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:41:13-56
+		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:39:13-56
 activity#com.example.uhfsdkdemo.SettingPower
-ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:43:9-45:47
-	android:launchMode
-		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:45:13-44
+ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:40:9-41:43
 	android:name
-		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:44:13-41
+		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:41:13-41
 activity#com.example.uhfsdkdemo.activity.SetAdminActivity
-ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:46:9-63
+ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:42:9-63
 	android:name
-		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:46:19-60
+		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:42:19-60
 activity#com.example.uhfsdkdemo.activity.InfoActivity
-ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:47:9-59
+ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:43:9-59
 	android:name
-		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:47:19-56
+		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:43:19-56
 activity#com.example.uhfsdkdemo.activity.OrderActivity
-ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:48:9-69
+ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:44:9-60
 	android:name
-		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:48:19-57
+		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:44:19-57
 activity#com.example.uhfsdkdemo.activity.SearchActivity
-ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:49:9-50:38
+ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:45:9-47:39
 	android:exported
-		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:50:13-36
+		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:47:13-36
 	android:name
-		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:49:19-58
+		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:46:13-52
 activity#com.example.uhfsdkdemo.activity.ChukuInfoActivity
-ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:51:9-73
+ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:48:9-64
 	android:name
-		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:51:19-61
+		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:48:19-61
 activity#com.example.uhfsdkdemo.activity.DiaoBoInfoActivity
-ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:52:9-74
+ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:49:9-65
 	android:name
-		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:52:19-62
+		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:49:19-62
+activity#com.example.uhfsdkdemo.activity.SettlementActivity
+ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:50:9-51:68
+	android:name
+		ADDED from D:\workspace\others\huang\fangda\UhfSDKdemo\app\src\main\AndroidManifest.xml:51:13-56
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\3a72fe43a544a574c9a36e324d7f131268a7296d\output\AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\f59d45e41930e560acbeb74456cc9cd1b12f280a\output\AndroidManifest.xml:25:5-27:34

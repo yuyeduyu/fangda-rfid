@@ -7,6 +7,7 @@ import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.ImageView;
+import android.widget.TextView;
 import butterknife.Unbinder;
 import butterknife.internal.DebouncingOnClickListener;
 import butterknife.internal.Utils;
@@ -18,7 +19,7 @@ import java.lang.Override;
 public class OrderActivity_ViewBinding<T extends OrderActivity> implements Unbinder {
   protected T target;
 
-  private View view2131689659;
+  private View view2131689664;
 
   @UiThread
   public OrderActivity_ViewBinding(final T target, View source) {
@@ -29,7 +30,7 @@ public class OrderActivity_ViewBinding<T extends OrderActivity> implements Unbin
     target.filterEdit = Utils.findRequiredViewAsType(source, R.id.filter_edit, "field 'filterEdit'", EditText.class);
     view = Utils.findRequiredView(source, R.id.search, "field 'search' and method 'onViewClicked'");
     target.search = Utils.castView(view, R.id.search, "field 'search'", ImageView.class);
-    view2131689659 = view;
+    view2131689664 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -37,6 +38,7 @@ public class OrderActivity_ViewBinding<T extends OrderActivity> implements Unbin
       }
     });
     target.recyclerview = Utils.findRequiredViewAsType(source, R.id.recyclerview, "field 'recyclerview'", RecyclerView.class);
+    target.num = Utils.findRequiredViewAsType(source, R.id.num, "field 'num'", TextView.class);
   }
 
   @Override
@@ -49,9 +51,10 @@ public class OrderActivity_ViewBinding<T extends OrderActivity> implements Unbin
     target.filterEdit = null;
     target.search = null;
     target.recyclerview = null;
+    target.num = null;
 
-    view2131689659.setOnClickListener(null);
-    view2131689659 = null;
+    view2131689664.setOnClickListener(null);
+    view2131689664 = null;
 
     this.target = null;
   }

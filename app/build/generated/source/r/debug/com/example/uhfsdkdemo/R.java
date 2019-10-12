@@ -3372,7 +3372,6 @@ containing a value of this type.
         public static final int setSuccess=0x7f080031;
         public static final int status_bar_notification_info_overflow=0x7f080014;
         public static final int stop_inventory=0x7f080032;
-        public static final int title_activity_settlement=0x7f080059;
         public static final int usaFreq=0x7f080033;
         public static final int workArea=0x7f080034;
         public static final int write=0x7f080035;
@@ -3385,8 +3384,6 @@ containing a value of this type.
         public static final int Animation_AppCompat_DropDownUp=0x7f0a00a4;
         public static final int Animation_Design_BottomSheetDialog=0x7f0a00a5;
         public static final int AppBaseTheme=0x7f0a00a6;
-        /**  All customizations that are NOT specific to a particular API-level can go here. 
-         */
         public static final int AppTheme=0x7f0a00a7;
         public static final int AppTheme_AppBarOverlay=0x7f0a00a8;
         public static final int AppTheme_PopupOverlay=0x7f0a00a9;

@@ -48,9 +48,7 @@
         <activity android:name=".activity.ChukuInfoActivity" />
         <activity android:name=".activity.DiaoBoInfoActivity" />
         <activity
-            android:name=".activity.SettlementActivity"
-            android:label="@string/title_activity_settlement"
-            android:theme="@style/AppTheme"></activity>
+            android:name=".activity.SettlementActivity"></activity>
     </application>
 
 </manifest>

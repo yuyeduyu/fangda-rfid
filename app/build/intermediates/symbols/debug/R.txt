@@ -1268,7 +1268,6 @@ int string set 0x7f080030
 int string setSuccess 0x7f080031
 int string status_bar_notification_info_overflow 0x7f080014
 int string stop_inventory 0x7f080032
-int string title_activity_settlement 0x7f080059
 int string usaFreq 0x7f080033
 int string workArea 0x7f080034
 int string write 0x7f080035

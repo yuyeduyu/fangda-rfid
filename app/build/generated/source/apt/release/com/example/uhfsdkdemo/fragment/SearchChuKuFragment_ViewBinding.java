@@ -19,9 +19,9 @@ import java.lang.Override;
 public class SearchChuKuFragment_ViewBinding<T extends SearchChuKuFragment> implements Unbinder {
   protected T target;
 
-  private View view2131689659;
+  private View view2131689664;
 
-  private View view2131689656;
+  private View view2131689661;
 
   @UiThread
   public SearchChuKuFragment_ViewBinding(final T target, View source) {
@@ -31,7 +31,7 @@ public class SearchChuKuFragment_ViewBinding<T extends SearchChuKuFragment> impl
     target.storeHousePtrFrame = Utils.findRequiredViewAsType(source, R.id.store_house_ptr_frame, "field 'storeHousePtrFrame'", PtrClassicFrameLayout.class);
     view = Utils.findRequiredView(source, R.id.search, "field 'search' and method 'onViewClicked'");
     target.search = Utils.castView(view, R.id.search, "field 'search'", ImageView.class);
-    view2131689659 = view;
+    view2131689664 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -41,7 +41,7 @@ public class SearchChuKuFragment_ViewBinding<T extends SearchChuKuFragment> impl
     target.recyclerview = Utils.findRequiredViewAsType(source, R.id.recyclerview, "field 'recyclerview'", RecyclerView.class);
     view = Utils.findRequiredView(source, R.id.time, "field 'tvTime' and method 'onViewClicked'");
     target.tvTime = Utils.castView(view, R.id.time, "field 'tvTime'", TextView.class);
-    view2131689656 = view;
+    view2131689661 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -65,10 +65,10 @@ public class SearchChuKuFragment_ViewBinding<T extends SearchChuKuFragment> impl
     target.etName = null;
     target.etColor = null;
 
-    view2131689659.setOnClickListener(null);
-    view2131689659 = null;
-    view2131689656.setOnClickListener(null);
-    view2131689656 = null;
+    view2131689664.setOnClickListener(null);
+    view2131689664 = null;
+    view2131689661.setOnClickListener(null);
+    view2131689661 = null;
 
     this.target = null;
   }

@@ -90,6 +90,8 @@ public class SettlementActivity extends AppCompatActivity {
         lastData = GetDataUtils.getDateStrByMint(now, 0);
         tvStartTime.setText(startTime.substring(0, 10));
         tvEndTime.setText(lastData.substring(0, 10));
+
+        storeHousePtrFrame.autoRefresh();
     }
 
     private void initRecyview() {
