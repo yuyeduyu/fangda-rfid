@@ -1,25 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
-    <include layout="@layout/custom_toolbar"/>
+
+    <include
+        layout="@layout/custom_toolbar"
+        android:visibility="gone" />
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginRight="10dp"
-        android:layout_marginLeft="10dp"
-        android:layout_marginTop="10dp"
-        android:layout_marginBottom="5dp"
+        android:paddingBottom="5dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="10dp"
+        android:paddingTop="5dp"
+        android:background="@color/c4"
         android:orientation="horizontal">
-
-        <include layout="@layout/view_search"
+        <ImageView
+            android:id="@+id/im_back"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_weight="1"/>
+           android:layout_gravity="center"
+            android:src="@mipmap/ic_back"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="品名"
+            android:textColor="@color/text1" />
 
+        <EditText
+            android:id="@+id/pName"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp" />
+
+        <LinearLayout
+            android:layout_weight="1"
+            android:id="@+id/ll_time"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="起始时间"
+                android:textColor="@color/text1" />
+
+            <TextView
+                android:id="@+id/tv_startTime"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="4dp"
+                android:layout_weight="1"
+                android:textColor="@color/text1"
+                tools:text="起始时间" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="截止时间"
+                android:textColor="@color/text1" />
+
+            <TextView
+                android:id="@+id/tv_endTime"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="4dp"
+                android:layout_weight="1"
+                android:textColor="@color/text1"
+                tools:text="起始时间" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_Search"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="查询"
+            android:textColor="@color/text1" />
     </LinearLayout>
+
+    <include layout="@layout/item_settlement" />
 
     <in.srain.cube.views.ptr.PtrClassicFrameLayout xmlns:cube_ptr="http://schemas.android.com/apk/res-auto"
         android:id="@+id/store_house_ptr_frame"
@@ -34,8 +103,8 @@
 
         <android.support.v7.widget.RecyclerView
             android:id="@+id/recyclerview"
-            android:background="@color/view_backgroud"
             android:layout_width="match_parent"
-            android:layout_height="match_parent" />
+            android:layout_height="match_parent"
+            android:background="@color/view_backgroud" />
     </in.srain.cube.views.ptr.PtrClassicFrameLayout>
 </LinearLayout>

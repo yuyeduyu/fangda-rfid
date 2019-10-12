@@ -30,23 +30,16 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.example.uhfsdkdemo.activity.RFIDActivity"
-            android:label="@string/app_name"
-            android:launchMode="singleTask" >
+            android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="com.example.uhfsdkdemo.activity.SettingActivity"
-            android:launchMode="singleTask" />
-        <activity
-            android:name="com.example.uhfsdkdemo.activity.MoreHandleActivity"
-            android:launchMode="singleTask" />
-        <activity
-            android:name="com.example.uhfsdkdemo.SettingPower"
-            android:launchMode="singleTask" />
+        <activity android:name="com.example.uhfsdkdemo.activity.SettingActivity" />
+        <activity android:name="com.example.uhfsdkdemo.activity.MoreHandleActivity" />
+        <activity android:name="com.example.uhfsdkdemo.SettingPower" />
         <activity android:name="com.example.uhfsdkdemo.activity.SetAdminActivity" />
         <activity android:name="com.example.uhfsdkdemo.activity.InfoActivity" />
         <activity android:name="com.example.uhfsdkdemo.activity.OrderActivity" />

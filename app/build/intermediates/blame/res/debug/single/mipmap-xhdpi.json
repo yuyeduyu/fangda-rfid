@@ -28,6 +28,10 @@
         "source": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\mipmap-xhdpi\\img8.png"
     },
     {
+        "merged": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_back.png",
+        "source": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_back.png"
+    },
+    {
         "merged": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\img3.png",
         "source": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\mipmap-xhdpi\\img3.png"
     },
@@ -74,6 +78,10 @@
     {
         "merged": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\img7.png",
         "source": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\mipmap-xhdpi\\img7.png"
+    },
+    {
+        "merged": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_arrow_back_black_24dp.png",
+        "source": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_arrow_back_black_24dp.png"
     },
     {
         "merged": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\aui.png",
