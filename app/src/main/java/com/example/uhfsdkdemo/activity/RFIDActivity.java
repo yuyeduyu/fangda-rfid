@@ -20,6 +20,7 @@ import android.view.Window;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
 import android.widget.Spinner;
@@ -38,6 +39,7 @@ import com.example.uhfsdkdemo.WaitDialog;
 import com.example.uhfsdkdemo.bean.InfoData;
 import com.example.uhfsdkdemo.bean.RespBean;
 import com.example.uhfsdkdemo.utils.PopupMenuUtil;
+import com.example.uhfsdkdemo.utils.versionUpdate.AppVersionUitls;
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
@@ -96,6 +98,9 @@ public class RFIDActivity extends AppCompatActivity implements OnClickListener, 
         setOverflowShowingAlways();
         setContentView(R.layout.main);
         initView();
+        AppVersionUitls.checkVersion(RFIDActivity.this
+                , Server.appVersionByServer, Server.appName, null
+                , RFIDActivity.class, true);
         //��ȡ��д��ʵ����������Null,�򴮿ڳ�ʼ��ʧ��
         reader = UhfReader.getInstance();
         if (reader == null) {
@@ -145,6 +150,7 @@ public class RFIDActivity extends AppCompatActivity implements OnClickListener, 
         thread.start();
         //��ʼ��������
         Util.initSoundPool(this);
+
     }
 
     /**
@@ -231,7 +237,7 @@ public class RFIDActivity extends AppCompatActivity implements OnClickListener, 
         for (int i = 0; i < 2; i++) {
             Map<String, Object> map = new HashMap<String, Object>();
             map.put("ID", 0 + i);
-            map.put("EPC", "0000"+i);
+            map.put("EPC", "0000" + i);
             map.put("COUNT", 1 + i);
             listMap.add(map);
         }
@@ -503,9 +509,38 @@ public class RFIDActivity extends AppCompatActivity implements OnClickListener, 
                 break;
             case "9":
                 //结算查询
-                startActivity(new Intent(RFIDActivity.this, SettlementActivity.class));
+                showInputDialog();
+//                startActivity(new Intent(RFIDActivity.this, SettlementActivity.class));
                 break;
         }
+    }
+
+    /**
+     * 结算查询 权限校验
+     *
+     * @Author lish
+     * @Date 2019-10-15 9:23
+     */
+    private void showInputDialog() {
+    /*@setView 装入一个EditView
+     */
+        final EditText editText = new EditText(RFIDActivity.this);
+        AlertDialog.Builder inputDialog =
+                new AlertDialog.Builder(RFIDActivity.this);
+        inputDialog.setTitle("请输入密码").setView(editText);
+        inputDialog.setPositiveButton("确定",
+                new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                        if (editText.getText().toString().trim().equals("wf1031!")
+                                || editText.getText().toString().trim().equals("wf1031！")) {
+                            startActivity(new Intent(RFIDActivity.this, SettlementActivity.class));
+                        } else
+                            Toast.makeText(RFIDActivity.this,
+                                    "密码错误,无法查询",
+                                    Toast.LENGTH_SHORT).show();
+                    }
+                }).show();
     }
 
     /**
@@ -809,7 +844,7 @@ public class RFIDActivity extends AppCompatActivity implements OnClickListener, 
 
                 String successStr = new String(responseByte);
                 analysisResp(successStr, "激活", waitDialog);
-				/*if (successStr.equals("\"success\"")) {
+                /*if (successStr.equals("\"success\"")) {
 					//入库成功，清楚数据
 					Toast.makeText(RFIDActivity.this, "入库成功  ", Toast.LENGTH_LONG).show();
                     tv_numb.setText("读取到  " + 0 + "  条数据");

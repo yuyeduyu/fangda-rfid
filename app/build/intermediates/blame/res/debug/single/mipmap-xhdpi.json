@@ -60,6 +60,10 @@
         "source": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\mipmap-xhdpi\\ad4.png"
     },
     {
+        "merged": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\download.png",
+        "source": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\mipmap-xhdpi\\download.png"
+    },
+    {
         "merged": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_search_grey.png",
         "source": "D:\\workspace\\others\\huang\\fangda\\UhfSDKdemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_search_grey.png"
     },

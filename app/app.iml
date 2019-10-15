@@ -95,26 +95,39 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 25 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="com.google.code.findbugs:jsr305:3.0.1@jar" level="project" />
+    <orderEntry type="library" exported="" name="com.squareup.okio:okio:1.8.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="__local_jars__:D.\workspace\others\huang\fangda\UhfSDKdemo\app\libs\uhf.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="com.jakewharton:butterknife-annotations:8.4.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="com.android.support:support-core-ui-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="com.squareup.retrofit2:adapter-rxjava:2.0.2@jar" level="project" />
+    <orderEntry type="library" exported="" name="com.trello:rxlifecycle:1.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="io.reactivex:rxandroid-1.2.1" level="project" />
+    <orderEntry type="library" exported="" name="com.android.support:support-compat-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="com.squareup.retrofit2:converter-gson:2.0.2@jar" level="project" />
+    <orderEntry type="library" exported="" name="com.android.support:support-core-utils-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="com.trello:rxlifecycle-components-1.0" level="project" />
+    <orderEntry type="library" exported="" name="com.android.support:support-v4-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="com.squareup.okhttp3:logging-interceptor:3.3.1@jar" level="project" />
+    <orderEntry type="library" exported="" name="com.android.support:support-fragment-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="com.android.support:support-media-compat-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="com.squareup.okhttp3:okhttp:3.3.1@jar" level="project" />
+    <orderEntry type="library" exported="" name="io.reactivex:rxjava:1.2.1@jar" level="project" />
     <orderEntry type="library" exported="" name="com.jakewharton:butterknife-8.4.0" level="project" />
     <orderEntry type="library" exported="" name="com.android.support:animated-vector-drawable-25.3.1" level="project" />
     <orderEntry type="library" exported="" name="in.srain.cube:ptr-load-more-1.0.6" level="project" />
-    <orderEntry type="library" exported="" name="__local_jars__:D.\workspace\others\huang\fangda\UhfSDKdemo\app\libs\uhf.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="com.squareup.retrofit2:retrofit:2.0.2@jar" level="project" />
     <orderEntry type="library" exported="" name="com.android.support:transition-25.3.1" level="project" />
     <orderEntry type="library" exported="" name="com.android.support:design-25.3.1" level="project" />
-    <orderEntry type="library" exported="" name="com.jakewharton:butterknife-annotations:8.4.0@jar" level="project" />
     <orderEntry type="library" exported="" name="__local_jars__:D.\workspace\others\huang\fangda\UhfSDKdemo\app\libs\httpcore-4.1.4.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.android.support:support-core-ui-25.3.1" level="project" />
     <orderEntry type="library" exported="" name="com.android.support:appcompat-v7-25.3.1" level="project" />
-    <orderEntry type="library" exported="" name="com.android.support:support-compat-25.3.1" level="project" />
-    <orderEntry type="library" exported="" name="__local_jars__:D.\workspace\others\huang\fangda\UhfSDKdemo\app\libs\gson-2.2.4.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.android.support:support-core-utils-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="com.trello:rxlifecycle-android-1.0" level="project" />
     <orderEntry type="library" exported="" name="org.greenrobot:eventbus:3.0.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="com.google.code.gson:gson:2.6.1@jar" level="project" />
     <orderEntry type="library" exported="" name="com.android.support:support-vector-drawable-25.3.1" level="project" />
-    <orderEntry type="library" exported="" name="com.android.support:support-v4-25.3.1" level="project" />
     <orderEntry type="library" exported="" name="__local_jars__:D.\workspace\others\huang\fangda\UhfSDKdemo\app\libs\android-async-http-1.4.6.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.android.support:support-fragment-25.3.1" level="project" />
     <orderEntry type="library" exported="" name="com.android.support:recyclerview-v7-25.3.1" level="project" />
     <orderEntry type="library" exported="" name="com.android.support:support-annotations:25.3.1@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.android.support:support-media-compat-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="com.jakewharton.rxbinding:rxbinding-0.4.0" level="project" />
   </component>
 </module>

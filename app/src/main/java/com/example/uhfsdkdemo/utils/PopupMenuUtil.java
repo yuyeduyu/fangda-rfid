@@ -208,6 +208,7 @@ public class PopupMenuUtil {
             _closeAnimation(llTest6, 200, bottom);
             _closeAnimation(llTest7, 200, bottom);
             _closeAnimation(llTest8, 300, bottom);
+            _closeAnimation(llTest9, 300, bottom);
 
             rlClick.postDelayed(new Runnable() {
                 @Override

@@ -24,6 +24,17 @@
         android:icon="@drawable/uhf_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme">
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.example.uhfsdkdemo.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+
         <activity
             android:name=".activity.RFIDActivity"
             android:label="@string/app_name">
@@ -49,6 +60,7 @@
         <activity android:name=".activity.DiaoBoInfoActivity" />
         <activity
             android:name=".activity.SettlementActivity"></activity>
+        <service android:name=".utils.versionUpdate.VersionUpdateService"/>
     </application>
 
 </manifest>
